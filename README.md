@@ -5,6 +5,8 @@ A survey of documentation for LaTeX. Included are references to printed and elec
 
 Enter `texdoc docsurvey` to display the document.
 
+**Be sure to check the _Discussions_ tab above!**
+
 The document is hosted at CTAN: https://ctan.org/pkg/docsurvey
 
 Table of contents:
